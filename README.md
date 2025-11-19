@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hossamamr2002/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-black)](https://github.com/HOSSAM-AMRR)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-contact-red)](mailto:hossam.amr2710@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact-red)](hossam.amr2710@gmail.com)
 
 ---
 
