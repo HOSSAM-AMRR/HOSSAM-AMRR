@@ -229,8 +229,8 @@ print(me.say_hi())
 <div align="center">
 
 ```text
-✅ 5+ Years of hands-on experience in Data Analysis & Data Science
-✅ 50+ Successful projects across various industries
+✅  hands-on experience in Data Analysis & Data Science
+✅  Successful projects across various industries
 ✅ Expert in creating actionable insights from complex datasets
 ✅ Proven track record in implementing ML models in production
 ✅ Strong stakeholder communication & data storytelling abilities
