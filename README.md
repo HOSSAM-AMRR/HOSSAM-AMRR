@@ -1,527 +1,320 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hossam Amr - Data Analyst & Data Scientist</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            font-family: 'Inter', 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-            overflow-x: hidden;
-        }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hossam%20Amr&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%26%20Data%20Scientist&descSize=18&descAlignY=55"/>
 
-        .container {
-            max-width: 900px;
-            width: 100%;
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 30px;
-            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-            padding: 60px;
-            animation: slideIn 0.8s ease-out;
-        }
+<br>
 
-        @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+### 👨‍💻 Turning complex data into clear, actionable business insights
 
-        .header {
-            text-align: center;
-            margin-bottom: 50px;
-        }
+<br>
 
-        .profile-image {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            margin: 0 auto 30px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 60px;
-            color: white;
-            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
-            animation: float 3s ease-in-out infinite;
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossamamr2002/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossam.amr2710@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-for-hossam.vercel.app/)
 
-        @keyframes float {
-            0%, 100% {
-                transform: translateY(0px);
-            }
-            50% {
-                transform: translateY(-10px);
-            }
-        }
+<br>
 
-        h1 {
-            font-size: 3rem;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 10px;
-            animation: fadeIn 1s ease-out 0.3s both;
-        }
+![Status](https://img.shields.io/badge/Status-Open%20to%20Data%20Analyst%20%2F%20Data%20Scientist%20Roles-brightgreen?style=flat-square&logo=statuspage&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=HOSSAM-AMRR&color=blueviolet&style=flat-square&label=Profile+Views)
 
-        .subtitle {
-            font-size: 1.5rem;
-            color: #666;
-            margin-bottom: 15px;
-            animation: fadeIn 1s ease-out 0.5s both;
-        }
+</div>
 
-        .tagline {
-            font-size: 1.1rem;
-            color: #888;
-            font-style: italic;
-            animation: fadeIn 1s ease-out 0.7s both;
-        }
+<br>
 
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(10px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+---
 
-        .code-block {
-            background: #1e1e1e;
-            border-radius: 15px;
-            padding: 30px;
-            margin: 40px 0;
-            font-family: 'Courier New', monospace;
-            color: #d4d4d4;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-            position: relative;
-            overflow: hidden;
-            animation: slideInLeft 1s ease-out 0.9s both;
-        }
+<br>
 
-        @keyframes slideInLeft {
-            from {
-                opacity: 0;
-                transform: translateX(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
+## 🚀 About Me
 
-        .code-header {
-            display: flex;
-            gap: 8px;
-            margin-bottom: 20px;
-        }
+<div align="center">
 
-        .code-dot {
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-        }
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Hossam Amr"
+        self.role = "Data Analyst & Data Scientist"
+        self.location = "Beni Suweif, Egypt"
+        self.languages = ["Python", "SQL", "R"]
+        self.expertise = [
+            "Data Analysis & Visualization",
+            "Machine Learning & AI",
+            "Statistical Modeling",
+            "Business Intelligence"
+        ]
+    
+    def say_hi(self):
+        return "Thanks for visiting! Let's transform data into insights."
 
-        .dot-red { background: #ff5f56; }
-        .dot-yellow { background: #ffbd2e; }
-        .dot-green { background: #27c93f; }
+# Create instance
+me = DataScientist()
+print(me.say_hi())
+```
 
-        .code-line {
-            margin: 8px 0;
-            line-height: 1.6;
-        }
+</div>
 
-        .keyword { color: #c586c0; }
-        .function { color: #dcdcaa; }
-        .string { color: #ce9178; }
-        .comment { color: #6a9955; }
-        .variable { color: #9cdcfe; }
-        .number { color: #b5cea8; }
+<br>
 
-        .typing-cursor {
-            display: inline-block;
-            width: 2px;
-            height: 1em;
-            background: #d4d4d4;
-            animation: blink 1s infinite;
-        }
+<div align="center">
 
-        @keyframes blink {
-            0%, 50% { opacity: 1; }
-            51%, 100% { opacity: 0; }
-        }
+### 📊 Quick Stats
 
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin: 40px 0;
-            animation: fadeInUp 1s ease-out 1.1s both;
-        }
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/5%2B-Years%20Experience-blue?style=for-the-badge&logo=clock&logoColor=white" alt="Experience"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/50%2B-Projects%20Completed-success?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/15%2B-Tools%20Mastered-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+</div>
 
-        .stat-card {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            padding: 30px;
-            border-radius: 15px;
-            text-align: center;
-            color: white;
-            transition: transform 0.3s, box-shadow 0.3s;
-            cursor: pointer;
-        }
+<br>
 
-        .stat-card:hover {
-            transform: translateY(-10px) scale(1.05);
-            box-shadow: 0 15px 40px rgba(102, 126, 234, 0.4);
-        }
+---
 
-        .stat-number {
-            font-size: 2.5rem;
-            font-weight: bold;
-            margin-bottom: 10px;
-            display: block;
-        }
+<br>
 
-        .stat-label {
-            font-size: 1rem;
-            opacity: 0.9;
-        }
+## 💻 Technical Arsenal
 
-        .skills-section {
-            margin: 40px 0;
-            animation: fadeIn 1s ease-out 1.3s both;
-        }
+<div align="center">
 
-        .section-title {
-            font-size: 2rem;
-            color: #333;
-            margin-bottom: 30px;
-            text-align: center;
-        }
+### **Core Languages & Tools**
 
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-        }
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-        .skill-card {
-            background: white;
-            border: 2px solid #e0e0e0;
-            border-radius: 15px;
-            padding: 25px;
-            transition: all 0.3s;
-        }
+<br>
 
-        .skill-card:hover {
-            border-color: #667eea;
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.2);
-        }
+### **Data Visualization**
 
-        .skill-card h3 {
-            color: #667eea;
-            margin-bottom: 15px;
-            font-size: 1.3rem;
-        }
+![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-        .skill-item {
-            background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
-            padding: 10px 15px;
-            border-radius: 8px;
-            margin: 8px 0;
-            font-weight: 500;
-            color: #333;
-            transition: all 0.3s;
-        }
+<br>
 
-        .skill-item:hover {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            transform: translateX(5px);
-        }
+### **Machine Learning & AI**
 
-        .contact-section {
-            margin-top: 50px;
-            text-align: center;
-            animation: fadeIn 1s ease-out 1.5s both;
-        }
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-        .contact-buttons {
-            display: flex;
-            gap: 15px;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-top: 30px;
-        }
+<br>
 
-        .btn {
-            padding: 15px 35px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: 600;
-            transition: all 0.3s;
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            font-size: 1rem;
-        }
+### **Cloud & Databases**
 
-        .btn-primary {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
-        }
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-        .btn-primary:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.5);
-        }
+<br>
 
-        .btn-secondary {
-            background: white;
-            color: #667eea;
-            border: 2px solid #667eea;
-        }
+### **Data Science Libraries**
 
-        .btn-secondary:hover {
-            background: #667eea;
-            color: white;
-        }
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-        .particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: -1;
-        }
+</div>
 
-        .particle {
-            position: absolute;
-            width: 4px;
-            height: 4px;
-            background: rgba(255, 255, 255, 0.5);
-            border-radius: 50%;
-            animation: float-particle 15s infinite;
-        }
+<br>
 
-        @keyframes float-particle {
-            0%, 100% {
-                transform: translateY(0) translateX(0);
-                opacity: 0;
-            }
-            10% {
-                opacity: 1;
-            }
-            90% {
-                opacity: 1;
-            }
-            100% {
-                transform: translateY(-100vh) translateX(100px);
-                opacity: 0;
-            }
-        }
+---
 
-        @media (max-width: 768px) {
-            .container {
-                padding: 30px;
-            }
+<br>
 
-            h1 {
-                font-size: 2rem;
-            }
+## 🎯 Core Expertise
 
-            .subtitle {
-                font-size: 1.2rem;
-            }
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-            .code-block {
-                padding: 20px;
-                font-size: 0.9rem;
-            }
+### 📊 Data Analysis
+- **Advanced Statistical Analysis**
+- **Data Cleaning & Transformation**
+- **Exploratory Data Analysis (EDA)**
+- **A/B Testing & Experimentation**
+- **SQL Query Optimization**
+- **Data Mining & Pattern Recognition**
 
-            .stat-card {
-                padding: 20px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="particles" id="particles"></div>
+</td>
+<td width="50%" valign="top">
 
-    <div class="container">
-        <div class="header">
-            <div class="profile-image">👨‍💻</div>
-            <h1>Hossam Amr</h1>
-            <div class="subtitle">Data Analyst & Data Scientist</div>
-            <div class="tagline">Turning complex data into clear, actionable business insights</div>
-        </div>
+### 📈 Business Intelligence
+- **Interactive Dashboard Creation**
+- **Executive Reporting & KPIs**
+- **Trend Analysis & Forecasting**
+- **Customer Behavior Analysis**
+- **Performance Metrics Tracking**
+- **Data-Driven Decision Making**
 
-        <div class="code-block">
-            <div class="code-header">
-                <div class="code-dot dot-red"></div>
-                <div class="code-dot dot-yellow"></div>
-                <div class="code-dot dot-green"></div>
-            </div>
-            <div class="code-line"><span class="keyword">class</span> <span class="function">DataScientist</span>:</div>
-            <div class="code-line">    <span class="keyword">def</span> <span class="function">__init__</span>(<span class="variable">self</span>):</div>
-            <div class="code-line">        <span class="variable">self</span>.name = <span class="string">"Hossam Amr"</span></div>
-            <div class="code-line">        <span class="variable">self</span>.role = <span class="string">"Data Analyst & Data Scientist"</span></div>
-            <div class="code-line">        <span class="variable">self</span>.location = <span class="string">"Beni Suweif, Egypt"</span></div>
-            <div class="code-line">        <span class="variable">self</span>.languages = [<span class="string">"Python"</span>, <span class="string">"SQL"</span>, <span class="string">"R"</span>]</div>
-            <div class="code-line">        <span class="variable">self</span>.expertise = [</div>
-            <div class="code-line">            <span class="string">"Data Analysis & Visualization"</span>,</div>
-            <div class="code-line">            <span class="string">"Machine Learning & AI"</span>,</div>
-            <div class="code-line">            <span class="string">"Statistical Modeling"</span>,</div>
-            <div class="code-line">            <span class="string">"Business Intelligence"</span></div>
-            <div class="code-line">        ]</div>
-            <div class="code-line"></div>
-            <div class="code-line">    <span class="keyword">def</span> <span class="function">say_hi</span>(<span class="variable">self</span>):</div>
-            <div class="code-line">        <span class="keyword">return</span> <span class="string">"Thanks for visiting! Let's transform data into insights."</span></div>
-            <div class="code-line"></div>
-            <div class="code-line"><span class="comment"># Create instance</span></div>
-            <div class="code-line"><span class="variable">me</span> = <span class="function">DataScientist</span>()</div>
-            <div class="code-line"><span class="keyword">print</span>(<span class="variable">me</span>.<span class="function">say_hi</span>())<span class="typing-cursor"></span></div>
-        </div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-        <div class="stats-grid">
-            <div class="stat-card">
-                <span class="stat-number">5+</span>
-                <span class="stat-label">Years Experience</span>
-            </div>
-            <div class="stat-card">
-                <span class="stat-number">50+</span>
-                <span class="stat-label">Projects Completed</span>
-            </div>
-            <div class="stat-card">
-                <span class="stat-number">15+</span>
-                <span class="stat-label">Tools Mastered</span>
-            </div>
-        </div>
+### 🤖 Machine Learning
+- **Supervised & Unsupervised Learning**
+- **Predictive Modeling**
+- **Classification & Regression**
+- **Clustering & Segmentation**
+- **Feature Engineering**
+- **Model Evaluation & Optimization**
 
-        <div class="skills-section">
-            <h2 class="section-title">🎯 Core Expertise</h2>
-            <div class="skills-grid">
-                <div class="skill-card">
-                    <h3>📊 Data Analysis</h3>
-                    <div class="skill-item">Python (Advanced)</div>
-                    <div class="skill-item">SQL (Expert)</div>
-                    <div class="skill-item">R (Advanced)</div>
-                    <div class="skill-item">Excel (Advanced)</div>
-                </div>
+</td>
+<td width="50%" valign="top">
 
-                <div class="skill-card">
-                    <h3>📈 Visualization</h3>
-                    <div class="skill-item">Power BI (Expert)</div>
-                    <div class="skill-item">Tableau (Expert)</div>
-                    <div class="skill-item">Plotly</div>
-                    <div class="skill-item">Matplotlib & Seaborn</div>
-                </div>
+### 🔍 Advanced Analytics
+- **Statistical Hypothesis Testing**
+- **Time Series Analysis**
+- **Natural Language Processing**
+- **Deep Learning Applications**
+- **Recommendation Systems**
+- **Anomaly Detection**
 
-                <div class="skill-card">
-                    <h3>🤖 Machine Learning</h3>
-                    <div class="skill-item">Scikit-learn</div>
-                    <div class="skill-item">TensorFlow</div>
-                    <div class="skill-item">PyTorch</div>
-                    <div class="skill-item">Statistical Modeling</div>
-                </div>
+</td>
+</tr>
+</table>
 
-                <div class="skill-card">
-                    <h3>☁️ Cloud & Databases</h3>
-                    <div class="skill-item">Azure</div>
-                    <div class="skill-item">MySQL</div>
-                    <div class="skill-item">PostgreSQL</div>
-                    <div class="skill-item">MongoDB</div>
-                </div>
-            </div>
-        </div>
+<br>
 
-        <div class="contact-section">
-            <h2 class="section-title">📫 Let's Connect</h2>
-            <p style="color: #666; font-size: 1.1rem; margin-bottom: 20px;">
-                Open to Data Analyst & Data Scientist opportunities
-            </p>
-            <div class="contact-buttons">
-                <a href="https://portfolio-for-hossam.vercel.app/" class="btn btn-primary" target="_blank">
-                    🌐 View Portfolio
-                </a>
-                <a href="https://www.linkedin.com/in/hossamamr2002/" class="btn btn-secondary" target="_blank">
-                    💼 LinkedIn
-                </a>
-                <a href="mailto:hossam.amr2710@gmail.com" class="btn btn-secondary">
-                    📧 Email Me
-                </a>
-            </div>
-        </div>
-    </div>
+---
 
-    <script>
-        // Create floating particles
-        const particlesContainer = document.getElementById('particles');
-        for (let i = 0; i < 50; i++) {
-            const particle = document.createElement('div');
-            particle.className = 'particle';
-            particle.style.left = Math.random() * 100 + '%';
-            particle.style.animationDelay = Math.random() * 15 + 's';
-            particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
-            particlesContainer.appendChild(particle);
-        }
+<br>
 
-        // Add click animation to stat cards
-        document.querySelectorAll('.stat-card').forEach(card => {
-            card.addEventListener('click', function() {
-                this.style.transform = 'scale(0.95)';
-                setTimeout(() => {
-                    this.style.transform = 'translateY(-10px) scale(1.05)';
-                }, 100);
-            });
-        });
+## 📈 GitHub Statistics
 
-        // Smooth scroll for any internal links
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) {
-                    target.scrollIntoView({ behavior: 'smooth' });
-                }
-            });
-        });
-    </script>
-</body>
-</html>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HOSSAM-AMRR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOSSAM-AMRR&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HOSSAM-AMRR&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak Stats"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HOSSAM-AMRR&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+<br>
+
+### 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HOSSAM-AMRR&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph"/>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+```text
+✅ 5+ Years of hands-on experience in Data Analysis & Data Science
+✅ 50+ Successful projects across various industries
+✅ Expert in creating actionable insights from complex datasets
+✅ Proven track record in implementing ML models in production
+✅ Strong stakeholder communication & data storytelling abilities
+✅ Continuous learner staying updated with latest data science trends
+```
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=HOSSAM-AMRR&repo=YourTopRepo1&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/HOSSAM-AMRR/YourTopRepo1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=HOSSAM-AMRR&repo=YourTopRepo2&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/HOSSAM-AMRR/YourTopRepo2)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💼 I'm actively seeking opportunities in Data Analysis & Data Science
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:hossam.amr2710@gmail.com">
+        <img src="https://img.shields.io/badge/Email-hossam.amr2710@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/hossamamr2002/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://portfolio-for-hossam.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 📊 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+### 💬 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br>
+
+---
+
+<br>
+
+<i>"In God we trust, all others must bring data."</i> — <b>W. Edwards Deming</b>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
