@@ -16,10 +16,10 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white&style=flat-square" alt="Email">
   </a>
   <a href="https://portfolio-for-hossam.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?logo=vercel&logoColor=white&style=flat-square" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?logo=vercel&logoColor=black&style=flat-square" alt="Portfolio">
   </a>
   <br><br>
-  <img src="https://img.shields.io/badge/%E2%9C%A8-Open%20to%20Data%20Roles-brightgreen?style=flat-square" alt="Open to Work">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work">
 </p>
 
 <br>
@@ -42,7 +42,6 @@
   <br><br>
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat" alt="Azure">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
 </p>
 
 <br>
@@ -50,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HOSSAM-AMRR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HOSSAM-AMRR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HOSSAM-AMRR&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Hossam's GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=HOSSAM-AMRR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -66,15 +65,8 @@
 
 <br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HOSSAM-AMRR&icon=6&color=0" alt="Profile Views">  
-  •  
-  <a href="https://portfolio-for-hossam.vercel.app/">🚀 View My Full Portfolio</a>
+  <img src="https://visitcount.itsvg.in/api?id=HOSSAM-AMRR&icon=5&color=6" alt="Profile Views">
+  &nbsp;•&nbsp;
+  <a href="https://portfolio-for-hossam.vercel.app/">My Full Portfolio</a>
 </p>
-
-<!-- Proudly built with passion & data -->
